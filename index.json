@@ -4588,24 +4588,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Mihentai",
-    "pkg": "eu.kanade.tachiyomi.extension.all.mihentai",
-    "apk": "tachiyomi-all.mihentai-v1.4.32.apk",
-    "lang": "all",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Mihentai",
-        "lang": "all",
-        "id": "3558188315762724556",
-        "baseUrl": "https://mihentai.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MissKon",
     "pkg": "eu.kanade.tachiyomi.extension.all.misskon",
     "apk": "tachiyomi-all.misskon-v1.4.2.apk",
@@ -17728,10 +17710,10 @@
   {
     "name": "Tachiyomi: AnimeSama",
     "pkg": "eu.kanade.tachiyomi.extension.fr.animesama",
-    "apk": "tachiyomi-fr.animesama-v1.4.13.apk",
+    "apk": "tachiyomi-fr.animesama-v1.4.14.apk",
     "lang": "fr",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 0,
     "sources": [
       {
@@ -17847,24 +17829,6 @@
         "lang": "fr",
         "id": "2577248042661857530",
         "baseUrl": "https://epsilonscan.to",
-        "versionId": 2
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Legacy Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.flamescansfr",
-    "apk": "tachiyomi-fr.flamescansfr-v1.4.31.apk",
-    "lang": "fr",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Legacy Scans",
-        "lang": "fr",
-        "id": "6502091652464133570",
-        "baseUrl": "https://legacy-scans.com",
         "versionId": 2
       }
     ]
@@ -18502,10 +18466,10 @@
   {
     "name": "Tachiyomi: Sushi-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscan",
-    "apk": "tachiyomi-fr.sushiscan-v1.4.44.apk",
+    "apk": "tachiyomi-fr.sushiscan-v1.4.45.apk",
     "lang": "fr",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "sources": [
       {
@@ -19575,6 +19539,24 @@
         "lang": "id",
         "id": "5845004992097969882",
         "baseUrl": "https://id.mgkomik.cc",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mihentai",
+    "pkg": "eu.kanade.tachiyomi.extension.id.mihentai",
+    "apk": "tachiyomi-id.mihentai-v1.4.33.apk",
+    "lang": "id",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Mihentai",
+        "lang": "id",
+        "id": "3141331376595743728",
+        "baseUrl": "https://mihentai.net",
         "versionId": 1
       }
     ]
@@ -25346,6 +25328,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Holy Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.holyscans",
+    "apk": "tachiyomi-tr.holyscans-v1.4.45.apk",
+    "lang": "tr",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Holy Scans",
+        "lang": "tr",
+        "id": "5655539211698234342",
+        "baseUrl": "https://holyscans.com.tr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Seraph Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.hyperionscans",
     "apk": "tachiyomi-tr.hyperionscans-v1.4.30.apk",
@@ -26116,6 +26116,24 @@
         "id": "1479830960881750685",
         "baseUrl": "https://tortuga-ceviri.com",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Tr Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.trmanga",
+    "apk": "tachiyomi-tr.trmanga-v1.4.1.apk",
+    "lang": "tr",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "TrManga",
+        "lang": "tr",
+        "id": "7237724101525767746",
+        "baseUrl": "https://trmanga.com",
+        "versionId": 1
       }
     ]
   },
