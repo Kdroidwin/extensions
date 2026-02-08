@@ -8488,10 +8488,10 @@
   {
     "name": "Tachiyomi: Atsumaru",
     "pkg": "eu.kanade.tachiyomi.extension.en.atsumaru",
-    "apk": "tachiyomi-en.atsumaru-v1.4.8.apk",
+    "apk": "tachiyomi-en.atsumaru-v1.4.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "sources": [
       {
@@ -9326,17 +9326,17 @@
   {
     "name": "Tachiyomi: Elf Toon",
     "pkg": "eu.kanade.tachiyomi.extension.en.elftoon",
-    "apk": "tachiyomi-en.elftoon-v1.4.31.apk",
+    "apk": "tachiyomi-en.elftoon-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
         "name": "Elf Toon",
         "lang": "en",
         "id": "3896703921896511395",
-        "baseUrl": "https://elftoon.xyz",
+        "baseUrl": "https://elftoon.com",
         "versionId": 1
       }
     ]
@@ -20392,10 +20392,10 @@
   {
     "name": "Tachiyomi: Comic Gardo",
     "pkg": "eu.kanade.tachiyomi.extension.ja.comicgardo",
-    "apk": "tachiyomi-ja.comicgardo-v1.4.8.apk",
+    "apk": "tachiyomi-ja.comicgardo-v1.4.9.apk",
     "lang": "ja",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "sources": [
       {
@@ -21051,6 +21051,24 @@
         "lang": "ja",
         "id": "1006356371941619891",
         "baseUrl": "https://mangamura.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga-Park",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.mangaparkpublisher",
+    "apk": "tachiyomi-ja.mangaparkpublisher-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga-Park",
+        "lang": "ja",
+        "id": "2905661176145448719",
+        "baseUrl": "https://manga-park.com",
         "versionId": 1
       }
     ]
@@ -22052,6 +22070,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Azuretoons",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.azuretoons",
+    "apk": "tachiyomi-pt.azuretoons-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Azuretoons",
+        "lang": "pt-BR",
+        "id": "6272815455807597212",
+        "baseUrl": "https://azuretoons.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Bakai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.bakai",
     "apk": "tachiyomi-pt.bakai-v1.4.13.apk",
@@ -22828,10 +22864,10 @@
   {
     "name": "Tachiyomi: Maid Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.maidscan",
-    "apk": "tachiyomi-pt.maidscan-v1.4.53.apk",
+    "apk": "tachiyomi-pt.maidscan-v1.4.58.apk",
     "lang": "pt-BR",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 1,
     "sources": [
       {
@@ -23044,10 +23080,10 @@
   {
     "name": "Tachiyomi: Mediocre Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
-    "apk": "tachiyomi-pt.mediocretoons-v1.4.14.apk",
+    "apk": "tachiyomi-pt.mediocretoons-v1.4.15.apk",
     "lang": "pt-BR",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 1,
     "sources": [
       {
@@ -23582,24 +23618,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Sussy Toons",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.63.apk",
-    "lang": "pt-BR",
-    "code": 63,
-    "version": "1.4.63",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Sussy Toons",
-        "lang": "pt-BR",
-        "id": "6963507464339951166",
-        "baseUrl": "https://www.sussytoons.wtf",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Taiyō",
     "pkg": "eu.kanade.tachiyomi.extension.pt.taiyo",
     "apk": "tachiyomi-pt.taiyo-v1.4.8.apk",
@@ -23757,6 +23775,24 @@
         "lang": "pt-BR",
         "id": "4207492914234184899",
         "baseUrl": "https://universohentai.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Verdinha",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.verdinha",
+    "apk": "tachiyomi-pt.verdinha-v1.4.8.apk",
+    "lang": "pt-BR",
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Verdinha",
+        "lang": "pt-BR",
+        "id": "3410911112857734134",
+        "baseUrl": "https://verdinha.wtf",
         "versionId": 1
       }
     ]
@@ -26410,17 +26446,17 @@
   {
     "name": "Tachiyomi: Goc Truyen Tranh",
     "pkg": "eu.kanade.tachiyomi.extension.vi.goctruyentranh",
-    "apk": "tachiyomi-vi.goctruyentranh-v1.4.7.apk",
+    "apk": "tachiyomi-vi.goctruyentranh-v1.4.8.apk",
     "lang": "vi",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {
         "name": "GocTruyenTranh",
         "lang": "vi",
         "id": "8162695314495646445",
-        "baseUrl": "https://goctruyentranh.net",
+        "baseUrl": "https://goctruyentranh.com",
         "versionId": 1
       }
     ]
