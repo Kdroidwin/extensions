@@ -17672,6 +17672,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Yupmanga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.yupmanga",
+    "apk": "tachiyomi-es.yupmanga-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Yupmanga",
+        "lang": "es",
+        "id": "4437245120973625796",
+        "baseUrl": "https://www.yupmanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Yuri-Online",
     "pkg": "eu.kanade.tachiyomi.extension.es.yurionline",
     "apk": "tachiyomi-es.yurionline-v1.4.45.apk",
@@ -21159,6 +21177,24 @@
         "lang": "ja",
         "id": "7564150377964448106",
         "baseUrl": "https://www.mangaz.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga UP! (Japan)",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.mangaupjapan",
+    "apk": "tachiyomi-ja.mangaupjapan-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga UP! (Japan)",
+        "lang": "ja",
+        "id": "697820552173578283",
+        "baseUrl": "https://www.manga-up.com",
         "versionId": 1
       }
     ]
