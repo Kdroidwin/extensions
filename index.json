@@ -4369,10 +4369,10 @@
   {
     "name": "Tachiyomi: Manhuarm",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhuarm",
-    "apk": "tachiyomi-all.manhuarm-v1.4.58.apk",
+    "apk": "tachiyomi-all.manhuarm-v1.4.59.apk",
     "lang": "all",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 1,
     "sources": [
       {
@@ -20660,6 +20660,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: CyComi",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.cycomi",
+    "apk": "tachiyomi-ja.cycomi-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "CyComi",
+        "lang": "ja",
+        "id": "8354556596244088751",
+        "baseUrl": "https://cycomi.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Docomo",
     "pkg": "eu.kanade.tachiyomi.extension.ja.docomo",
     "apk": "tachiyomi-ja.docomo-v1.4.1.apk",
@@ -21652,6 +21670,24 @@
         "lang": "ja",
         "id": "2227240489801599645",
         "baseUrl": "https://yanmaga.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Young Jump+",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.ynjn",
+    "apk": "tachiyomi-ja.ynjn-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Young Jump+",
+        "lang": "ja",
+        "id": "3322701627784242064",
+        "baseUrl": "https://ynjn.jp",
         "versionId": 1
       }
     ]
@@ -22882,17 +22918,17 @@
   {
     "name": "Tachiyomi: Little Tyrant",
     "pkg": "eu.kanade.tachiyomi.extension.pt.littletyrant",
-    "apk": "tachiyomi-pt.littletyrant-v1.4.46.apk",
+    "apk": "tachiyomi-pt.littletyrant-v1.4.47.apk",
     "lang": "pt-BR",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 1,
     "sources": [
       {
         "name": "Little Tyrant",
         "lang": "pt-BR",
         "id": "4886334142812146511",
-        "baseUrl": "https://tiraninha.baby",
+        "baseUrl": "https://tiraninha.world",
         "versionId": 1
       }
     ]
