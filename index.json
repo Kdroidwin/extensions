@@ -10307,10 +10307,10 @@
   {
     "name": "Tachiyomi: Kagane",
     "pkg": "eu.kanade.tachiyomi.extension.en.kagane",
-    "apk": "tachiyomi-en.kagane-v1.4.16.apk",
+    "apk": "tachiyomi-en.kagane-v1.4.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "sources": [
       {
