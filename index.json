@@ -1346,15 +1346,15 @@
   {
     "name": "Tachiyomi: GlobalComix",
     "pkg": "eu.kanade.tachiyomi.extension.all.globalcomix",
-    "apk": "tachiyomi-all.globalcomix-v1.4.1.apk",
+    "apk": "tachiyomi-all.globalcomix-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
         "name": "GlobalComix",
-        "lang": "al",
+        "lang": "sq",
         "id": "3356591153022230079",
         "baseUrl": "https://globalcomix.com",
         "versionId": 1
@@ -1410,7 +1410,7 @@
       },
       {
         "name": "GlobalComix",
-        "lang": "dk",
+        "lang": "da",
         "id": "5048347663546425663",
         "baseUrl": "https://globalcomix.com",
         "versionId": 1
@@ -1733,10 +1733,10 @@
   {
     "name": "Tachiyomi: 3Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentai3",
-    "apk": "tachiyomi-all.hentai3-v1.4.1.apk",
+    "apk": "tachiyomi-all.hentai3-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -1860,7 +1860,7 @@
       },
       {
         "name": "3Hentai",
-        "lang": "po",
+        "lang": "pl",
         "id": "7940950215101782907",
         "baseUrl": "https://3hentai.net",
         "versionId": 1
