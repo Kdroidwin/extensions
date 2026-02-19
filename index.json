@@ -8353,10 +8353,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.53.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.54.apk",
     "lang": "en",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 0,
     "sources": [
       {
@@ -23655,10 +23655,10 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.4.60.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.4.61.apk",
     "lang": "ru",
-    "code": 60,
-    "version": "1.4.60",
+    "code": 61,
+    "version": "1.4.61",
     "nsfw": 1,
     "sources": [
       {
@@ -23907,10 +23907,10 @@
   {
     "name": "Tachiyomi: MintManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.4.82.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.4.83.apk",
     "lang": "ru",
-    "code": 82,
-    "version": "1.4.82",
+    "code": 83,
+    "version": "1.4.83",
     "nsfw": 1,
     "sources": [
       {
@@ -23961,10 +23961,10 @@
   {
     "name": "Tachiyomi: ReadManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.4.82.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.4.84.apk",
     "lang": "ru",
-    "code": 82,
-    "version": "1.4.82",
+    "code": 84,
+    "version": "1.4.84",
     "nsfw": 0,
     "sources": [
       {
@@ -23979,10 +23979,10 @@
   {
     "name": "Tachiyomi: RuMIX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.rumix",
-    "apk": "tachiyomi-ru.rumix-v1.4.37.apk",
+    "apk": "tachiyomi-ru.rumix-v1.4.38.apk",
     "lang": "ru",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "sources": [
       {
@@ -23997,10 +23997,10 @@
   {
     "name": "Tachiyomi: SeiManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.seimanga",
-    "apk": "tachiyomi-ru.seimanga-v1.4.36.apk",
+    "apk": "tachiyomi-ru.seimanga-v1.4.37.apk",
     "lang": "ru",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "sources": [
       {
@@ -24015,10 +24015,10 @@
   {
     "name": "Tachiyomi: SelfManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.4.58.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.4.59.apk",
     "lang": "ru",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 0,
     "sources": [
       {
@@ -24087,10 +24087,10 @@
   {
     "name": "Tachiyomi: Usagi",
     "pkg": "eu.kanade.tachiyomi.extension.ru.usagi",
-    "apk": "tachiyomi-ru.usagi-v1.4.36.apk",
+    "apk": "tachiyomi-ru.usagi-v1.4.37.apk",
     "lang": "ru",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "sources": [
       {
