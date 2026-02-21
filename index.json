@@ -2568,6 +2568,59 @@
     ]
   },
   {
+    "name": "Tachiyomi: Honeytoon",
+    "pkg": "eu.kanade.tachiyomi.extension.all.honeytoon",
+    "apk": "tachiyomi-all.honeytoon-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Honeytoon",
+        "lang": "de",
+        "id": "8586216664933826829",
+        "baseUrl": "https://honeytoon.com",
+        "versionId": 1
+      },
+      {
+        "name": "Honeytoon",
+        "lang": "en",
+        "id": "1063521896373496908",
+        "baseUrl": "https://honeytoon.com",
+        "versionId": 1
+      },
+      {
+        "name": "Honeytoon",
+        "lang": "es",
+        "id": "5514199583083468982",
+        "baseUrl": "https://honeytoon.com",
+        "versionId": 1
+      },
+      {
+        "name": "Honeytoon",
+        "lang": "fr",
+        "id": "6559632390565356882",
+        "baseUrl": "https://honeytoon.com",
+        "versionId": 1
+      },
+      {
+        "name": "Honeytoon",
+        "lang": "it",
+        "id": "9071118557363497394",
+        "baseUrl": "https://honeytoon.com",
+        "versionId": 1
+      },
+      {
+        "name": "Honeytoon",
+        "lang": "pt-BR",
+        "id": "7482415595909557945",
+        "baseUrl": "https://honeytoon.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: IMHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.imhentai",
     "apk": "tachiyomi-all.imhentai-v1.4.21.apk",
@@ -9984,6 +10037,24 @@
         "lang": "en",
         "id": "1089473637776666044",
         "baseUrl": "https://hentaixyuri.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Hentara",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hentara",
+    "apk": "tachiyomi-en.hentara-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Hentara",
+        "lang": "en",
+        "id": "7009504251263254629",
+        "baseUrl": "https://hentara.com",
         "versionId": 1
       }
     ]
@@ -22197,18 +22268,18 @@
   {
     "name": "Tachiyomi: Geass Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.geasscomics",
-    "apk": "tachiyomi-pt.geasscomics-v1.4.2.apk",
+    "apk": "tachiyomi-pt.geasscomics-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
         "name": "Geass Comics",
         "lang": "pt-BR",
-        "id": "177568692231056996",
+        "id": "7839519253265657488",
         "baseUrl": "https://geasscomics.xyz",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
