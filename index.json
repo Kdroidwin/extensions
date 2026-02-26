@@ -7549,10 +7549,10 @@
   {
     "name": "Tachiyomi: ProChan",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangapro",
-    "apk": "tachiyomi-ar.mangapro-v1.4.44.apk",
+    "apk": "tachiyomi-ar.mangapro-v1.4.45.apk",
     "lang": "ar",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "sources": [
       {
