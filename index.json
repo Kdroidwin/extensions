@@ -7547,6 +7547,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: ProChan",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangapro",
+    "apk": "tachiyomi-ar.mangapro-v1.4.44.apk",
+    "lang": "ar",
+    "code": 44,
+    "version": "1.4.44",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "ProChan",
+        "lang": "ar",
+        "id": "7030606678664712682",
+        "baseUrl": "https://prochan.net",
+        "versionId": 5
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaRabic",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangarabic",
     "apk": "tachiyomi-ar.mangarabic-v1.4.47.apk",
@@ -20516,6 +20534,24 @@
         "lang": "ja",
         "id": "9220365500598403749",
         "baseUrl": "https://gaugau.futabanet.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Goraku Web",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.gorakuweb",
+    "apk": "tachiyomi-ja.gorakuweb-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Goraku Web",
+        "lang": "ja",
+        "id": "8261703368756535165",
+        "baseUrl": "https://gorakuweb.com",
         "versionId": 1
       }
     ]
