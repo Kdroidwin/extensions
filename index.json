@@ -8449,10 +8449,10 @@
   {
     "name": "Tachiyomi: Atsumaru",
     "pkg": "eu.kanade.tachiyomi.extension.en.atsumaru",
-    "apk": "tachiyomi-en.atsumaru-v1.4.9.apk",
+    "apk": "tachiyomi-en.atsumaru-v1.4.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "sources": [
       {
@@ -14567,6 +14567,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: TCB Scans (Unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.en.tcbscansunoriginal",
+    "apk": "tachiyomi-en.tcbscansunoriginal-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "TCB Scans (Unoriginal)",
+        "lang": "en",
+        "id": "3067475212004248014",
+        "baseUrl": "https://tcbscanonepiecechapters.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.en.templescan",
     "apk": "tachiyomi-en.templescan-v1.4.47.apk",
@@ -17445,18 +17463,18 @@
   {
     "name": "Tachiyomi: Astral-Manga",
     "pkg": "eu.kanade.tachiyomi.extension.fr.astralmanga",
-    "apk": "tachiyomi-fr.astralmanga-v1.4.46.apk",
+    "apk": "tachiyomi-fr.astralmanga-v1.4.47.apk",
     "lang": "fr",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
         "name": "AstralManga",
         "lang": "fr",
-        "id": "7510012514263457159",
+        "id": "8815089098147858609",
         "baseUrl": "https://astral-manga.fr",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -17803,6 +17821,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaMoins",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.mangamoins",
+    "apk": "tachiyomi-fr.mangamoins-v1.4.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaMoins",
+        "lang": "fr",
+        "id": "6508647660473520087",
+        "baseUrl": "https://mangamoins.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaNova",
     "pkg": "eu.kanade.tachiyomi.extension.fr.manganova",
     "apk": "tachiyomi-fr.manganova-v1.4.1.apk",
@@ -17949,10 +17985,10 @@
   {
     "name": "Tachiyomi: Raijin Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.raijinscans",
-    "apk": "tachiyomi-fr.raijinscans-v1.4.56.apk",
+    "apk": "tachiyomi-fr.raijinscans-v1.4.57.apk",
     "lang": "fr",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 57,
+    "version": "1.4.57",
     "nsfw": 0,
     "sources": [
       {
