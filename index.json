@@ -4341,10 +4341,10 @@
   {
     "name": "Tachiyomi: Manhuarm",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhuarm",
-    "apk": "tachiyomi-all.manhuarm-v1.4.59.apk",
+    "apk": "tachiyomi-all.manhuarm-v1.4.60.apk",
     "lang": "all",
-    "code": 59,
-    "version": "1.4.59",
+    "code": 60,
+    "version": "1.4.60",
     "nsfw": 1,
     "sources": [
       {
@@ -7207,10 +7207,10 @@
   {
     "name": "Tachiyomi: Area Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.areamanga",
-    "apk": "tachiyomi-ar.areamanga-v1.4.31.apk",
+    "apk": "tachiyomi-ar.areamanga-v1.4.32.apk",
     "lang": "ar",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
@@ -10303,10 +10303,10 @@
   {
     "name": "Tachiyomi: Kagane",
     "pkg": "eu.kanade.tachiyomi.extension.en.kagane",
-    "apk": "tachiyomi-en.kagane-v1.4.18.apk",
+    "apk": "tachiyomi-en.kagane-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -10537,10 +10537,10 @@
   {
     "name": "Tachiyomi: K Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.kmanga",
-    "apk": "tachiyomi-en.kmanga-v1.4.2.apk",
+    "apk": "tachiyomi-en.kmanga-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -15170,10 +15170,10 @@
   {
     "name": "Tachiyomi: Weeb Central",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
-    "apk": "tachiyomi-en.weebcentral-v1.4.16.apk",
+    "apk": "tachiyomi-en.weebcentral-v1.4.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "sources": [
       {
@@ -17911,6 +17911,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ortega Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.ortegascans",
+    "apk": "tachiyomi-fr.ortegascans-v1.4.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Ortega Scans",
+        "lang": "fr",
+        "id": "8598370605081191622",
+        "baseUrl": "https://ortegascans.fr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Pantheon Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.pantheonscan",
     "apk": "tachiyomi-fr.pantheonscan-v1.4.46.apk",
@@ -18255,17 +18273,17 @@
   {
     "name": "Tachiyomi: Aarlas",
     "pkg": "eu.kanade.tachiyomi.extension.id.aarlas",
-    "apk": "tachiyomi-id.aarlas-v1.4.11.apk",
+    "apk": "tachiyomi-id.aarlas-v1.4.12.apk",
     "lang": "id",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "sources": [
       {
         "name": "Aarlas",
         "lang": "id",
         "id": "6495978594979776478",
-        "baseUrl": "http://www.arlas.my.id",
+        "baseUrl": "https://www.arlas.my.id",
         "versionId": 1
       }
     ]
@@ -20444,6 +20462,24 @@
         "lang": "ja",
         "id": "6276622162610581454",
         "baseUrl": "https://firecross.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Flower Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.flowercomics",
+    "apk": "tachiyomi-ja.flowercomics-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Flower Comics",
+        "lang": "ja",
+        "id": "6525907185900913523",
+        "baseUrl": "https://flowercomics.jp",
         "versionId": 1
       }
     ]
@@ -22941,10 +22977,10 @@
   {
     "name": "Tachiyomi: Monte Tai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.montetai",
-    "apk": "tachiyomi-pt.montetai-v1.4.45.apk",
+    "apk": "tachiyomi-pt.montetai-v1.4.46.apk",
     "lang": "pt-BR",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "sources": [
       {
@@ -23085,10 +23121,10 @@
   {
     "name": "Tachiyomi: Hanami Heaven",
     "pkg": "eu.kanade.tachiyomi.extension.pt.noindexscan",
-    "apk": "tachiyomi-pt.noindexscan-v1.4.47.apk",
+    "apk": "tachiyomi-pt.noindexscan-v1.4.48.apk",
     "lang": "pt-BR",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 1,
     "sources": [
       {
@@ -26811,10 +26847,10 @@
   {
     "name": "Tachiyomi: BiliManga",
     "pkg": "eu.kanade.tachiyomi.extension.zh.bilimanga",
-    "apk": "tachiyomi-zh.bilimanga-v1.4.5.apk",
+    "apk": "tachiyomi-zh.bilimanga-v1.4.6.apk",
     "lang": "zh",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "sources": [
       {
@@ -27272,24 +27308,6 @@
         "lang": "zh",
         "id": "7893367692443604037",
         "baseUrl": "https://noy1.top",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: COLAMANGA",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.onemanhua",
-    "apk": "tachiyomi-zh.onemanhua-v1.4.26.apk",
-    "lang": "zh",
-    "code": 26,
-    "version": "1.4.26",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "COLAMANGA",
-        "lang": "zh",
-        "id": "8252565807829914103",
-        "baseUrl": "https://www.colamanga.com",
         "versionId": 1
       }
     ]
