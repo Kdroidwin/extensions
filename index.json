@@ -6486,10 +6486,10 @@
   {
     "name": "Tachiyomi: WeebDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.weebdex",
-    "apk": "tachiyomi-all.weebdex-v1.4.8.apk",
+    "apk": "tachiyomi-all.weebdex-v1.4.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "sources": [
       {
@@ -7110,10 +7110,10 @@
   {
     "name": "Tachiyomi: YellowNote",
     "pkg": "eu.kanade.tachiyomi.extension.all.yellownote",
-    "apk": "tachiyomi-all.yellownote-v1.4.3.apk",
+    "apk": "tachiyomi-all.yellownote-v1.4.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {
@@ -7974,6 +7974,24 @@
         "lang": "ar",
         "id": "4110737012647435874",
         "baseUrl": "https://olympustaff.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: WaveTeamy",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.waveteamy",
+    "apk": "tachiyomi-ar.waveteamy-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "WaveTeamy",
+        "lang": "ar",
+        "id": "898162339487144205",
+        "baseUrl": "https://waveteamy.com",
         "versionId": 1
       }
     ]
@@ -13705,10 +13723,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.38.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "sources": [
       {
@@ -17427,10 +17445,10 @@
   {
     "name": "Tachiyomi: Yupmanga",
     "pkg": "eu.kanade.tachiyomi.extension.es.yupmanga",
-    "apk": "tachiyomi-es.yupmanga-v1.4.1.apk",
+    "apk": "tachiyomi-es.yupmanga-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -18055,6 +18073,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Pornhwa.io",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.pornhwaio",
+    "apk": "tachiyomi-fr.pornhwaio-v1.4.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Pornhwa.io",
+        "lang": "fr",
+        "id": "2312454299295279659",
+        "baseUrl": "https://pornhwa.io",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Poseidon Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.poseidonscans",
     "apk": "tachiyomi-fr.poseidonscans-v1.4.49.apk",
@@ -18075,10 +18111,10 @@
   {
     "name": "Tachiyomi: Raijin Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.raijinscans",
-    "apk": "tachiyomi-fr.raijinscans-v1.4.57.apk",
+    "apk": "tachiyomi-fr.raijinscans-v1.4.58.apk",
     "lang": "fr",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 0,
     "sources": [
       {
@@ -18669,17 +18705,17 @@
   {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
-    "apk": "tachiyomi-id.kiryuu-v1.4.46.apk",
+    "apk": "tachiyomi-id.kiryuu-v1.4.47.apk",
     "lang": "id",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
         "name": "Kiryuu",
         "lang": "id",
         "id": "3639673976007021338",
-        "baseUrl": "https://kiryuu03.com",
+        "baseUrl": "https://v1.kiryuu.to",
         "versionId": 1
       }
     ]
@@ -19821,17 +19857,17 @@
   {
     "name": "Tachiyomi: West Manga",
     "pkg": "eu.kanade.tachiyomi.extension.id.westmanga",
-    "apk": "tachiyomi-id.westmanga-v1.4.38.apk",
+    "apk": "tachiyomi-id.westmanga-v1.4.39.apk",
     "lang": "id",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "sources": [
       {
         "name": "West Manga",
         "lang": "id",
         "id": "8883916630998758688",
-        "baseUrl": "https://westmanga.me",
+        "baseUrl": "https://westmanga.tv",
         "versionId": 1
       }
     ]
@@ -22581,10 +22617,10 @@
   {
     "name": "Tachiyomi: Kairos Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.kairostoons",
-    "apk": "tachiyomi-pt.kairostoons-v1.4.1.apk",
+    "apk": "tachiyomi-pt.kairostoons-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -23456,6 +23492,24 @@
         "lang": "pt-BR",
         "id": "3492404357721425345",
         "baseUrl": "https://rfdragonscan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Risentoons",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.risentoons",
+    "apk": "tachiyomi-pt.risentoons-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Risentoons",
+        "lang": "pt-BR",
+        "id": "4905131080278546043",
+        "baseUrl": "https://risentoons.xyz",
         "versionId": 1
       }
     ]
@@ -26431,6 +26485,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: LoppyToon",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.loppytoon",
+    "apk": "tachiyomi-vi.loppytoon-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "LoppyToon",
+        "lang": "vi",
+        "id": "6580420139533147522",
+        "baseUrl": "https://loppytoon.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LXManga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
     "apk": "tachiyomi-vi.lxhentai-v1.4.25.apk",
@@ -26858,6 +26930,24 @@
         "lang": "vi",
         "id": "4004369226840135398",
         "baseUrl": "https://vi-hentai.moe",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: VinaHentai",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.vinahentai",
+    "apk": "tachiyomi-vi.vinahentai-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "VinaHentai",
+        "lang": "vi",
+        "id": "4572372176917567711",
+        "baseUrl": "https://vinahentai.site",
         "versionId": 1
       }
     ]
