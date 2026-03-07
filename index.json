@@ -3024,10 +3024,10 @@
   {
     "name": "Tachiyomi: Luscious",
     "pkg": "eu.kanade.tachiyomi.extension.all.luscious",
-    "apk": "tachiyomi-all.luscious-v1.4.25.apk",
+    "apk": "tachiyomi-all.luscious-v1.4.26.apk",
     "lang": "all",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 1,
     "sources": [
       {
@@ -4047,10 +4047,10 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.4.58.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.4.59.apk",
     "lang": "all",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 0,
     "sources": [
       {
@@ -4341,10 +4341,10 @@
   {
     "name": "Tachiyomi: Manhuarm",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhuarm",
-    "apk": "tachiyomi-all.manhuarm-v1.4.60.apk",
+    "apk": "tachiyomi-all.manhuarm-v1.4.61.apk",
     "lang": "all",
-    "code": 60,
-    "version": "1.4.60",
+    "code": 61,
+    "version": "1.4.61",
     "nsfw": 1,
     "sources": [
       {
@@ -7272,6 +7272,24 @@
         "lang": "ar",
         "id": "6404296554681042513",
         "baseUrl": "https://www.umimanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Comic Verse",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.comicverse",
+    "apk": "tachiyomi-ar.comicverse-v1.4.12.apk",
+    "lang": "ar",
+    "code": 12,
+    "version": "1.4.12",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Comic Verse",
+        "lang": "ar",
+        "id": "7487319247633385575",
+        "baseUrl": "https://arcomixverse.blogspot.com",
         "versionId": 1
       }
     ]
