@@ -27585,17 +27585,17 @@
   {
     "name": "Tachiyomi: MH1234",
     "pkg": "eu.kanade.tachiyomi.extension.zh.mh1234",
-    "apk": "tachiyomi-zh.mh1234-v1.4.1.apk",
+    "apk": "tachiyomi-zh.mh1234-v1.4.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
         "name": "漫画1234",
         "lang": "zh",
         "id": "7895725080195720063",
-        "baseUrl": "https://b.amh1234.com",
+        "baseUrl": "https://m.wmh1234.com",
         "versionId": 1
       }
     ]
@@ -27747,17 +27747,17 @@
   {
     "name": "Tachiyomi: Terra Historicus",
     "pkg": "eu.kanade.tachiyomi.extension.zh.terrahistoricus",
-    "apk": "tachiyomi-zh.terrahistoricus-v1.4.3.apk",
+    "apk": "tachiyomi-zh.terrahistoricus-v1.4.4.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
         "name": "泰拉记事社",
         "lang": "zh",
         "id": "4585134706567717130",
-        "baseUrl": "https://terra-historicus.hypergryph.com",
+        "baseUrl": "https://comic.hypergryph.com",
         "versionId": 1
       }
     ]
