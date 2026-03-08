@@ -2785,6 +2785,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Kodoku Studio",
+    "pkg": "eu.kanade.tachiyomi.extension.all.kodokustudio",
+    "apk": "tachiyomi-all.kodokustudio-v1.4.45.apk",
+    "lang": "all",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Kodoku Studio",
+        "lang": "all",
+        "id": "1835150489344342556",
+        "baseUrl": "https://kodokustudio.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: SchaleNetwork",
     "pkg": "eu.kanade.tachiyomi.extension.all.koharu",
     "apk": "tachiyomi-all.koharu-v1.4.17.apk",
@@ -3151,10 +3169,10 @@
   {
     "name": "Tachiyomi: Manga18Me",
     "pkg": "eu.kanade.tachiyomi.extension.all.manga18me",
-    "apk": "tachiyomi-all.manga18me-v1.4.1.apk",
+    "apk": "tachiyomi-all.manga18me-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -15278,10 +15296,10 @@
   {
     "name": "Tachiyomi: Weeb Central",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
-    "apk": "tachiyomi-en.weebcentral-v1.4.17.apk",
+    "apk": "tachiyomi-en.weebcentral-v1.4.18.apk",
     "lang": "en",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 1,
     "sources": [
       {
@@ -26552,6 +26570,24 @@
         "lang": "vi",
         "id": "5268102422164410592",
         "baseUrl": "https://www.hentaivnx.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: KamiComic",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.kamicomic",
+    "apk": "tachiyomi-vi.kamicomic-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "KamiComic",
+        "lang": "vi",
+        "id": "4858507068999692510",
+        "baseUrl": "https://kamicomi.com",
         "versionId": 1
       }
     ]
