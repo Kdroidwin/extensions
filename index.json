@@ -4359,10 +4359,10 @@
   {
     "name": "Tachiyomi: Manhuarm",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhuarm",
-    "apk": "tachiyomi-all.manhuarm-v1.4.61.apk",
+    "apk": "tachiyomi-all.manhuarm-v1.4.62.apk",
     "lang": "all",
-    "code": 61,
-    "version": "1.4.61",
+    "code": 62,
+    "version": "1.4.62",
     "nsfw": 1,
     "sources": [
       {
