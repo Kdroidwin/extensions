@@ -4065,10 +4065,10 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.4.59.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.4.60.apk",
     "lang": "all",
-    "code": 59,
-    "version": "1.4.59",
+    "code": 60,
+    "version": "1.4.60",
     "nsfw": 0,
     "sources": [
       {
@@ -5765,6 +5765,24 @@
         "lang": "pt-BR",
         "id": "6580167522413338197",
         "baseUrl": "https://qtoon.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: RokuHentai",
+    "pkg": "eu.kanade.tachiyomi.extension.all.rokuhentai",
+    "apk": "tachiyomi-all.rokuhentai-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Roku Hentai",
+        "lang": "all",
+        "id": "6773816792833894188",
+        "baseUrl": "https://rokuhentai.com",
         "versionId": 1
       }
     ]
@@ -9448,6 +9466,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Frieren Online",
+    "pkg": "eu.kanade.tachiyomi.extension.en.frierenonline",
+    "apk": "tachiyomi-en.frierenonline-v1.4.45.apk",
+    "lang": "en",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Frieren Online",
+        "lang": "en",
+        "id": "27704135061035291",
+        "baseUrl": "https://www.frieren.online",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: GalaxyDegenScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.galaxydegenscans",
     "apk": "tachiyomi-en.galaxydegenscans-v1.4.49.apk",
@@ -10170,10 +10206,10 @@
   {
     "name": "Tachiyomi: Kagane",
     "pkg": "eu.kanade.tachiyomi.extension.en.kagane",
-    "apk": "tachiyomi-en.kagane-v1.4.21.apk",
+    "apk": "tachiyomi-en.kagane-v1.4.22.apk",
     "lang": "en",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 1,
     "sources": [
       {
@@ -19310,10 +19346,10 @@
   {
     "name": "Tachiyomi: Softkomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.softkomik",
-    "apk": "tachiyomi-id.softkomik-v1.4.4.apk",
+    "apk": "tachiyomi-id.softkomik-v1.4.5.apk",
     "lang": "id",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
@@ -20786,17 +20822,17 @@
   {
     "name": "Tachiyomi: Raw18",
     "pkg": "eu.kanade.tachiyomi.extension.ja.raw18",
-    "apk": "tachiyomi-ja.raw18-v1.4.8.apk",
+    "apk": "tachiyomi-ja.raw18-v1.4.9.apk",
     "lang": "ja",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "sources": [
       {
         "name": "Raw18",
         "lang": "ja",
         "id": "2238636513447052332",
-        "baseUrl": "https://raw18.link",
+        "baseUrl": "https://raw18.rest",
         "versionId": 1
       }
     ]
@@ -26228,17 +26264,17 @@
   {
     "name": "Tachiyomi: Vcomycs",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vcomycs",
-    "apk": "tachiyomi-vi.vcomycs-v1.4.3.apk",
+    "apk": "tachiyomi-vi.vcomycs-v1.4.4.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {
         "name": "Vcomycs",
         "lang": "vi",
         "id": "5613705645187939531",
-        "baseUrl": "https://vivicomi17.info",
+        "baseUrl": "https://vivicomi18.info",
         "versionId": 1
       }
     ]
