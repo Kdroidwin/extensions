@@ -7792,6 +7792,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Orca Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.orcamanga",
+    "apk": "tachiyomi-ar.orcamanga-v1.4.11.apk",
+    "lang": "ar",
+    "code": 11,
+    "version": "1.4.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Orca Manga",
+        "lang": "ar",
+        "id": "5634203247016722993",
+        "baseUrl": "https://www.orcamanga.site",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Paradise BL",
     "pkg": "eu.kanade.tachiyomi.extension.ar.paradisebl",
     "apk": "tachiyomi-ar.paradisebl-v1.4.45.apk",
@@ -8262,10 +8280,10 @@
   {
     "name": "Tachiyomi: Armageddon",
     "pkg": "eu.kanade.tachiyomi.extension.en.armageddon",
-    "apk": "tachiyomi-en.armageddon-v1.4.31.apk",
+    "apk": "tachiyomi-en.armageddon-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "sources": [
       {
@@ -9029,6 +9047,24 @@
         "lang": "en",
         "id": "7432245132662185058",
         "baseUrl": "https://reader.decadencescans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: DFlowScans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.dflowscans",
+    "apk": "tachiyomi-en.dflowscans-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "DFlowScans",
+        "lang": "en",
+        "id": "5731115645938971449",
+        "baseUrl": "https://dflow.alwaysdata.net",
         "versionId": 1
       }
     ]
@@ -10278,10 +10314,10 @@
   {
     "name": "Tachiyomi: Kagane",
     "pkg": "eu.kanade.tachiyomi.extension.en.kagane",
-    "apk": "tachiyomi-en.kagane-v1.4.22.apk",
+    "apk": "tachiyomi-en.kagane-v1.4.23.apk",
     "lang": "en",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 1,
     "sources": [
       {
@@ -10812,6 +10848,24 @@
         "id": "1589747287364201069",
         "baseUrl": "https://magustoon.org",
         "versionId": 3
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mahouirexnohentaikarte",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mahouirexnohentaikarte",
+    "apk": "tachiyomi-en.mahouirexnohentaikarte-v1.4.45.apk",
+    "lang": "en",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Mahouirexnohentaikarte",
+        "lang": "en",
+        "id": "1698910827692369662",
+        "baseUrl": "https://mahouirexnohentaikarte.com",
+        "versionId": 1
       }
     ]
   },
@@ -13302,10 +13356,10 @@
   {
     "name": "Tachiyomi: Qi Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.qiscans",
-    "apk": "tachiyomi-en.qiscans-v1.4.20.apk",
+    "apk": "tachiyomi-en.qiscans-v1.4.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 0,
     "sources": [
       {
@@ -15480,6 +15534,24 @@
         "lang": "es",
         "id": "8219271831795034464",
         "baseUrl": "https://bibliopanda.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Bloom Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.es.bloomscans",
+    "apk": "tachiyomi-es.bloomscans-v1.4.30.apk",
+    "lang": "es",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Bloom Scans",
+        "lang": "es",
+        "id": "2598725055968738551",
+        "baseUrl": "https://bloomscans.com",
         "versionId": 1
       }
     ]
@@ -19236,6 +19308,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Omicaso",
+    "pkg": "eu.kanade.tachiyomi.extension.id.omicaso",
+    "apk": "tachiyomi-id.omicaso-v1.4.31.apk",
+    "lang": "id",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Omicaso",
+        "lang": "id",
+        "id": "7347711054392056906",
+        "baseUrl": "https://omicaso.in",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: One Piece Berwarna",
     "pkg": "eu.kanade.tachiyomi.extension.id.onepieceberwarna",
     "apk": "tachiyomi-id.onepieceberwarna-v1.4.1.apk",
@@ -19699,6 +19789,24 @@
         "lang": "it",
         "id": "398037379041422243",
         "baseUrl": "https://hentaifantasy.it/index.php",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Juin Jutsu Team Reader",
+    "pkg": "eu.kanade.tachiyomi.extension.it.juinjutsuteamreader",
+    "apk": "tachiyomi-it.juinjutsuteamreader-v1.4.4.apk",
+    "lang": "it",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Juin Jutsu Team Reader",
+        "lang": "it",
+        "id": "1779918793601923139",
+        "baseUrl": "https://www.juinjutsureader.ovh",
         "versionId": 1
       }
     ]
@@ -20624,18 +20732,18 @@
   {
     "name": "Tachiyomi: Manga1000",
     "pkg": "eu.kanade.tachiyomi.extension.ja.manga1000",
-    "apk": "tachiyomi-ja.manga1000-v1.4.12.apk",
+    "apk": "tachiyomi-ja.manga1000-v1.4.13.apk",
     "lang": "ja",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "sources": [
       {
         "name": "Manga1000",
         "lang": "ja",
-        "id": "4264835336591581099",
-        "baseUrl": "https://manga1000.top",
-        "versionId": 1
+        "id": "2990178902658283254",
+        "baseUrl": "https://hachiraw.win",
+        "versionId": 2
       }
     ]
   },
@@ -24048,6 +24156,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Doujin Moon",
+    "pkg": "eu.kanade.tachiyomi.extension.th.doujinmoon",
+    "apk": "tachiyomi-th.doujinmoon-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Doujin Moon",
+        "lang": "th",
+        "id": "1953904877869380978",
+        "baseUrl": "https://doujinmoon.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DoujinZa",
     "pkg": "eu.kanade.tachiyomi.extension.th.doujinza",
     "apk": "tachiyomi-th.doujinza-v1.4.45.apk",
@@ -24084,6 +24210,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Fin Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.th.finmanga",
+    "apk": "tachiyomi-th.finmanga-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Fin Manga",
+        "lang": "th",
+        "id": "7656859857051979814",
+        "baseUrl": "https://www.fin-manga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: God-Doujin",
     "pkg": "eu.kanade.tachiyomi.extension.th.goddoujin",
     "apk": "tachiyomi-th.goddoujin-v1.4.30.apk",
@@ -24097,6 +24241,24 @@
         "lang": "th",
         "id": "3638625079908519060",
         "baseUrl": "https://god-doujin.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Go Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.th.gomanga",
+    "apk": "tachiyomi-th.gomanga-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Go Manga",
+        "lang": "th",
+        "id": "748167751985747523",
+        "baseUrl": "https://www.go-manga.com",
         "versionId": 1
       }
     ]
@@ -24444,6 +24606,42 @@
     ]
   },
   {
+    "name": "Tachiyomi: Singmanga",
+    "pkg": "eu.kanade.tachiyomi.extension.th.singmanga",
+    "apk": "tachiyomi-th.singmanga-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "SingManga",
+        "lang": "th",
+        "id": "834994810873638550",
+        "baseUrl": "https://www.sing-manga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Slow Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.th.slowmanga",
+    "apk": "tachiyomi-th.slowmanga-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Slow Manga",
+        "lang": "th",
+        "id": "3894617311216312574",
+        "baseUrl": "https://www.slow-manga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Sodsaime",
     "pkg": "eu.kanade.tachiyomi.extension.th.sodsaime",
     "apk": "tachiyomi-th.sodsaime-v1.4.32.apk",
@@ -24566,6 +24764,24 @@
         "id": "4020109289796113875",
         "baseUrl": "https://alucardscans.com",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Amanga Planet",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.amangaplanet",
+    "apk": "tachiyomi-tr.amangaplanet-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Amanga Planet",
+        "lang": "tr",
+        "id": "5164979204020878495",
+        "baseUrl": "https://www.amangaplanet.com.tr",
+        "versionId": 1
       }
     ]
   },
@@ -24984,6 +25200,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mangadusleri",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangadusleri",
+    "apk": "tachiyomi-tr.mangadusleri-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Mangadusleri",
+        "lang": "tr",
+        "id": "6126907606523253834",
+        "baseUrl": "https://mangadusleri.lol",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaGezgini",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangagezgini",
     "apk": "tachiyomi-tr.mangagezgini-v1.4.54.apk",
@@ -25249,6 +25483,24 @@
         "lang": "tr",
         "id": "2732049206654972364",
         "baseUrl": "https://moondaisyscans.lol",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Nemesis scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.nemesisscans",
+    "apk": "tachiyomi-tr.nemesisscans-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Nemesisscans",
+        "lang": "tr",
+        "id": "4325951682189741537",
+        "baseUrl": "https://nemesisscans.com",
         "versionId": 1
       }
     ]
@@ -25663,6 +25915,24 @@
         "lang": "tr",
         "id": "4269781201892859761",
         "baseUrl": "https://turkcemangaoku.com.tr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Turkmangaoku",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.turkmangaoku",
+    "apk": "tachiyomi-tr.turkmangaoku-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Turkmangaoku",
+        "lang": "tr",
+        "id": "3744006447916094053",
+        "baseUrl": "https://turkmangaoku.com",
         "versionId": 1
       }
     ]
