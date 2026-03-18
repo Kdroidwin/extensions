@@ -3042,10 +3042,10 @@
   {
     "name": "Tachiyomi: Lunar Manga",
     "pkg": "eu.kanade.tachiyomi.extension.all.lunaranime",
-    "apk": "tachiyomi-all.lunaranime-v1.4.2.apk",
+    "apk": "tachiyomi-all.lunaranime-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -3060,10 +3060,10 @@
   {
     "name": "Tachiyomi: Luscious",
     "pkg": "eu.kanade.tachiyomi.extension.all.luscious",
-    "apk": "tachiyomi-all.luscious-v1.4.27.apk",
+    "apk": "tachiyomi-all.luscious-v1.4.28.apk",
     "lang": "all",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 1,
     "sources": [
       {
@@ -10780,6 +10780,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Luminare Translations",
+    "pkg": "eu.kanade.tachiyomi.extension.en.luminaretranslations",
+    "apk": "tachiyomi-en.luminaretranslations-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Luminare Translations",
+        "lang": "en",
+        "id": "1698654724978495521",
+        "baseUrl": "https://luminaretranslations.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Luna Toons",
     "pkg": "eu.kanade.tachiyomi.extension.en.lunatoons",
     "apk": "tachiyomi-en.lunatoons-v1.4.18.apk",
@@ -11549,6 +11567,24 @@
         "lang": "en",
         "id": "6458420328066857684",
         "baseUrl": "https://www.mangamo.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaMob",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangamob",
+    "apk": "tachiyomi-en.mangamob-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaMob",
+        "lang": "en",
+        "id": "954997815643613941",
+        "baseUrl": "https://mangamob.com",
         "versionId": 1
       }
     ]
@@ -16927,17 +16963,17 @@
   {
     "name": "Tachiyomi: RichtoScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.richtoscan",
-    "apk": "tachiyomi-es.richtoscan-v1.4.47.apk",
+    "apk": "tachiyomi-es.richtoscan-v1.4.48.apk",
     "lang": "es",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "sources": [
       {
         "name": "RichtoScan",
         "lang": "es",
         "id": "1245067583654716116",
-        "baseUrl": "https://lascanderichto.com/",
+        "baseUrl": "https://r1.richtoon.top",
         "versionId": 1
       }
     ]
@@ -17629,6 +17665,24 @@
         "lang": "fr",
         "id": "8654267899929745421",
         "baseUrl": "https://kiwiyascans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: LanorTrad",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.lanortrad",
+    "apk": "tachiyomi-fr.lanortrad-v1.4.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "LanorTrad",
+        "lang": "fr",
+        "id": "6624592926208705847",
+        "baseUrl": "https://lanortrad.netlify.app",
         "versionId": 1
       }
     ]
@@ -19267,6 +19321,24 @@
         "lang": "id",
         "id": "8593493873810750465",
         "baseUrl": "https://www.mikoroku.my.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Narasi Ninja",
+    "pkg": "eu.kanade.tachiyomi.extension.id.narasininja",
+    "apk": "tachiyomi-id.narasininja-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "NarasiNinja",
+        "lang": "id",
+        "id": "4748581925941451102",
+        "baseUrl": "https://narasininja.net",
         "versionId": 1
       }
     ]
@@ -20959,6 +21031,24 @@
         "lang": "ja",
         "id": "697820552173578283",
         "baseUrl": "https://www.manga-up.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mokuro",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.mokuro",
+    "apk": "tachiyomi-ja.mokuro-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Mokuro",
+        "lang": "ja",
+        "id": "3707487231227345638",
+        "baseUrl": "https://mokuro.moe",
         "versionId": 1
       }
     ]
@@ -26546,6 +26636,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: NhentaiClub",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.nhentaiclub",
+    "apk": "tachiyomi-vi.nhentaiclub-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "NhentaiClub",
+        "lang": "vi",
+        "id": "9124366814387777661",
+        "baseUrl": "https://nhentaiclub.site",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: OTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.otruyen",
     "apk": "tachiyomi-vi.otruyen-v1.4.1.apk",
@@ -26584,17 +26692,17 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.27.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.28.apk",
     "lang": "vi",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 1,
     "sources": [
       {
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://lanhlungteam.com",
+        "baseUrl": "https://hongtruyentranh.com",
         "versionId": 1
       }
     ]
