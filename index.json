@@ -3212,10 +3212,10 @@
   {
     "name": "Tachiyomi: Manga Ball",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaball",
-    "apk": "tachiyomi-all.mangaball-v1.4.1.apk",
+    "apk": "tachiyomi-all.mangaball-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -6515,10 +6515,10 @@
   {
     "name": "Tachiyomi: WeebDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.weebdex",
-    "apk": "tachiyomi-all.weebdex-v1.4.9.apk",
+    "apk": "tachiyomi-all.weebdex-v1.4.10.apk",
     "lang": "all",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "sources": [
       {
@@ -8424,10 +8424,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.56.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.57.apk",
     "lang": "en",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 57,
+    "version": "1.4.57",
     "nsfw": 0,
     "sources": [
       {
@@ -11178,10 +11178,10 @@
   {
     "name": "Tachiyomi: Manga District",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadistrict",
-    "apk": "tachiyomi-en.mangadistrict-v1.4.59.apk",
+    "apk": "tachiyomi-en.mangadistrict-v1.4.60.apk",
     "lang": "en",
-    "code": 59,
-    "version": "1.4.59",
+    "code": 60,
+    "version": "1.4.60",
     "nsfw": 1,
     "sources": [
       {
@@ -17690,10 +17690,10 @@
   {
     "name": "Tachiyomi: Japscan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.4.57.apk",
+    "apk": "tachiyomi-fr.japscan-v1.4.58.apk",
     "lang": "fr",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 0,
     "sources": [
       {
@@ -18366,7 +18366,7 @@
         "name": "Ainz Scans ID",
         "lang": "id",
         "id": "6828652413569586396",
-        "baseUrl": "https://ainzscans01.com",
+        "baseUrl": "https://v1.ainzscans01.com",
         "versionId": 1
       }
     ]
@@ -20833,6 +20833,24 @@
         "lang": "ja",
         "id": "6304246026723672697",
         "baseUrl": "https://klz9.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: KL Raw",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.klraw",
+    "apk": "tachiyomi-ja.klraw-v1.4.3.apk",
+    "lang": "ja",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "KL Raw",
+        "lang": "ja",
+        "id": "7433897302034602657",
+        "baseUrl": "https://www.klraw.info",
         "versionId": 1
       }
     ]
@@ -27070,10 +27088,10 @@
   {
     "name": "Tachiyomi: YuriGarden",
     "pkg": "eu.kanade.tachiyomi.extension.vi.yurigarden",
-    "apk": "tachiyomi-vi.yurigarden-v1.4.1.apk",
+    "apk": "tachiyomi-vi.yurigarden-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
