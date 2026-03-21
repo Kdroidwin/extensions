@@ -8424,10 +8424,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.55.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.56.apk",
     "lang": "en",
-    "code": 55,
-    "version": "1.4.55",
+    "code": 56,
+    "version": "1.4.56",
     "nsfw": 0,
     "sources": [
       {
@@ -13948,6 +13948,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Renascans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.renascans",
+    "apk": "tachiyomi-en.renascans-v1.4.16.apk",
+    "lang": "en",
+    "code": 16,
+    "version": "1.4.16",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Renascans",
+        "lang": "en",
+        "id": "3447464472094373275",
+        "baseUrl": "https://renascans.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Reset Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.resetscans",
     "apk": "tachiyomi-en.resetscans-v1.4.55.apk",
@@ -18140,10 +18158,10 @@
   {
     "name": "Tachiyomi: ScansFR",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scansfr",
-    "apk": "tachiyomi-fr.scansfr-v1.4.2.apk",
+    "apk": "tachiyomi-fr.scansfr-v1.4.3.apk",
     "lang": "fr",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -18428,10 +18446,10 @@
   {
     "name": "Tachiyomi: Comicazen",
     "pkg": "eu.kanade.tachiyomi.extension.id.comicazen",
-    "apk": "tachiyomi-id.comicazen-v1.4.3.apk",
+    "apk": "tachiyomi-id.comicazen-v1.4.4.apk",
     "lang": "id",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -18446,17 +18464,17 @@
   {
     "name": "Tachiyomi: CosmicScans.id",
     "pkg": "eu.kanade.tachiyomi.extension.id.cosmicscansid",
-    "apk": "tachiyomi-id.cosmicscansid-v1.4.46.apk",
+    "apk": "tachiyomi-id.cosmicscansid-v1.4.47.apk",
     "lang": "id",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 1,
     "sources": [
       {
         "name": "CosmicScans.id",
         "lang": "id",
         "id": "6559481336553833282",
-        "baseUrl": "https://lc4.cosmicscans.asia",
+        "baseUrl": "https://lc5.cosmicscans.asia",
         "versionId": 1
       }
     ]
@@ -19292,10 +19310,10 @@
   {
     "name": "Tachiyomi: Medusascans",
     "pkg": "eu.kanade.tachiyomi.extension.id.medusascans",
-    "apk": "tachiyomi-id.medusascans-v1.4.3.apk",
+    "apk": "tachiyomi-id.medusascans-v1.4.4.apk",
     "lang": "id",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {
@@ -20167,6 +20185,24 @@
         "lang": "ja",
         "id": "1585589665574145721",
         "baseUrl": "https://ciao.shogakukan.co.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: C",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.cmoa",
+    "apk": "tachiyomi-ja.cmoa-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "C'moA",
+        "lang": "ja",
+        "id": "1222039348961733003",
+        "baseUrl": "https://www.cmoa.jp",
         "versionId": 1
       }
     ]
