@@ -3060,10 +3060,10 @@
   {
     "name": "Tachiyomi: Luscious",
     "pkg": "eu.kanade.tachiyomi.extension.all.luscious",
-    "apk": "tachiyomi-all.luscious-v1.4.28.apk",
+    "apk": "tachiyomi-all.luscious-v1.4.29.apk",
     "lang": "all",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 1,
     "sources": [
       {
@@ -5973,6 +5973,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: StashApp",
+    "pkg": "eu.kanade.tachiyomi.extension.all.stashapp",
+    "apk": "tachiyomi-all.stashapp-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "StashApp",
+        "lang": "all",
+        "id": "4332882684116196542",
+        "baseUrl": "http://localhost:9999",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Taddy INK (Webtoons)",
     "pkg": "eu.kanade.tachiyomi.extension.all.taddyink",
     "apk": "tachiyomi-all.taddyink-v1.4.1.apk",
@@ -8802,10 +8820,10 @@
   {
     "name": "Tachiyomi: Collected Curios",
     "pkg": "eu.kanade.tachiyomi.extension.en.collectedcurios",
-    "apk": "tachiyomi-en.collectedcurios-v1.4.1.apk",
+    "apk": "tachiyomi-en.collectedcurios-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -19742,10 +19760,10 @@
   {
     "name": "Tachiyomi: Softkomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.softkomik",
-    "apk": "tachiyomi-id.softkomik-v1.4.5.apk",
+    "apk": "tachiyomi-id.softkomik-v1.4.6.apk",
     "lang": "id",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
@@ -21146,10 +21164,10 @@
   {
     "name": "Tachiyomi: Mokuro",
     "pkg": "eu.kanade.tachiyomi.extension.ja.mokuro",
-    "apk": "tachiyomi-ja.mokuro-v1.4.1.apk",
+    "apk": "tachiyomi-ja.mokuro-v1.4.2.apk",
     "lang": "ja",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -26462,10 +26480,10 @@
   {
     "name": "Tachiyomi: Goc Truyen Tranh Vui",
     "pkg": "eu.kanade.tachiyomi.extension.vi.goctruyentranhvui",
-    "apk": "tachiyomi-vi.goctruyentranhvui-v1.4.9.apk",
+    "apk": "tachiyomi-vi.goctruyentranhvui-v1.4.10.apk",
     "lang": "vi",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "sources": [
       {
@@ -27088,10 +27106,10 @@
   {
     "name": "Tachiyomi: YuriGarden",
     "pkg": "eu.kanade.tachiyomi.extension.vi.yurigarden",
-    "apk": "tachiyomi-vi.yurigarden-v1.4.3.apk",
+    "apk": "tachiyomi-vi.yurigarden-v1.4.4.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {
